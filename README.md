@@ -109,7 +109,7 @@ python filify.py defilify webapp.spec ./dev
 
 # Work on project normally
 cd dev
-# ... edit files in IDE ...
+# ... edit files in IDE or with an LLM ...
 
 # Convert back to spec for sharing
 python filify.py filify ./dev webapp-updated.spec
